@@ -1,0 +1,18 @@
+.body {
+    background: blue;
+}
+#top-bar {
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -10px;
+    padding-bottom: 5 px;
+    padding-top: 10px;
+    background: green;
+    border-bottom: 2px;
+    border-bottom-color: black;
+    border-radius: 0 5px 5px 0;
+}
+#top-bar-text {
+    margin-left:auto;
+    margin-right: auto;
+}
